@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: May 01, 2024 at 04:06 PM
+-- Generation Time: May 01, 2024 at 04:29 PM
 -- Server version: 10.4.28-MariaDB
 -- PHP Version: 8.2.4
 
@@ -43,7 +43,7 @@ CREATE TABLE `staff` (
 
 INSERT INTO `staff` (`empid`, `firstname`, `lastname`, `phone`, `address`, `position`, `dob`) VALUES
 (2, 'ISHIMWE', 'DIEUDONNEE', '113', 'Ruvumera', 'Manager', '2024-04-14'),
-(3, 'Mukiza', 'Eric', '078008877', 'Kayonza', 'Finance', '2024-04-02');
+(3, 'ISHIMWE', 'DIEUDONNEE', '0781973530', 'Ruvumera', 'ICT Officer', '2005-10-11');
 
 -- --------------------------------------------------------
 
